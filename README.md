@@ -5,7 +5,7 @@
 <h2>What is FastAPI-MVC?</h2>
 
 <h2>
-<p>it is a templat eshows how to implement MVC(<em>Model-View-Controller</em>traditional design pattern) in FastAPI.</p>
+<p>it is a templat eshows how to implement MVC(<em>Model-View-Controller</em>)(traditional design pattern) in FastAPI.</p>
 
 </h2>
 
