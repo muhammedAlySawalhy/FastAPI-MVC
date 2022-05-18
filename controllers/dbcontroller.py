@@ -1,5 +1,4 @@
 
-from threading import local
 from databases import Database
 import os
 from fastapi import FastAPI
